@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-red": "^3.0.2",
+    "node-red-contrib-mqtt-broker": "^0.2.9"
+  }
+}
